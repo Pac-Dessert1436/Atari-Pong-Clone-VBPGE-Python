@@ -58,15 +58,14 @@ This project is a faithful recreation of the classic Atari Pong game with modern
 
 ## Game Controls
 
-| Action                 | Controls               |
-|------------------------|------------------------|
-| **Player 1 (Left)**    | W (up), S (down)       |
-| **Player 2 (Right)**   | UP/DOWN arrows         |
-| **Pause/Resume**       | P                      |
-| **Return to Menu**     | ESC                    |
-| **Start Game**         | SPACE (after selection)|
-| **Select Game Mode**   | 1 (Single), 2 (Two)    |
-| **Restart Game**       | SPACE (game over)      |
+| Action                          | Controls               |
+|---------------------------------|------------------------|
+| **Player 1 (Left Paddle)**      | W (up), S (down)       |
+| **Player 2 (Right Paddle)**     | UP/DOWN arrows         |
+| **Pause/Resume the Game**       | P                      |
+| **Exit the Game when Playing**  | ESC                    |
+| **Select Mode at Title Screen** | 1 (Single), 2 (Two)    |
+| **Restart Game (On Game Over)** | SPACE                  |
 
 ## Game Modes
 
