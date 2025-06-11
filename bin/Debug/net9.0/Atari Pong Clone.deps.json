@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Atari Pong Clone/1.0.0": {
+        "dependencies": {
+          "vbPixelGameEngine": "1.0.0.0"
+        },
+        "runtime": {
+          "Atari Pong Clone.dll": {}
+        }
+      },
+      "vbPixelGameEngine/1.0.0.0": {
+        "runtime": {
+          "vbPixelGameEngine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atari Pong Clone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "vbPixelGameEngine/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

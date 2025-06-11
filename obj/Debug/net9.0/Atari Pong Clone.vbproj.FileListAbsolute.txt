@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\Atari Pong Clone\bin\Debug\net9.0\Atari Pong Clone.exe
+C:\Users\Administrator\Desktop\Atari Pong Clone\bin\Debug\net9.0\Atari Pong Clone.deps.json
+C:\Users\Administrator\Desktop\Atari Pong Clone\bin\Debug\net9.0\Atari Pong Clone.runtimeconfig.json
+C:\Users\Administrator\Desktop\Atari Pong Clone\bin\Debug\net9.0\Atari Pong Clone.dll
+C:\Users\Administrator\Desktop\Atari Pong Clone\bin\Debug\net9.0\Atari Pong Clone.pdb
+C:\Users\Administrator\Desktop\Atari Pong Clone\bin\Debug\net9.0\vbPixelGameEngine.dll
+C:\Users\Administrator\Desktop\Atari Pong Clone\bin\Debug\net9.0\vbPixelGameEngine.pdb
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\Atari Pong Clone.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\Atari Pong Clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\Atari Pong Clone.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\Atari Pong Clone.AssemblyInfo.vb
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\Atari Pong Clone.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\Atari Po.CFD14D55.Up2Date
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\Atari Pong Clone.dll
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\refint\Atari Pong Clone.dll
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\Atari Pong Clone.pdb
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\Atari Pong Clone.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Atari Pong Clone\obj\Debug\net9.0\ref\Atari Pong Clone.dll
