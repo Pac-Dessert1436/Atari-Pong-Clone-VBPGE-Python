@@ -1,13 +1,13 @@
-# Atari Pong Clone
+# Atari Pong Clone in VB.NET and Python
 
 ![Atari Pong Gameplay](screenshot.png)
 
-This project is a faithful recreation of the classic Atari Pong game with modern enhancements. Implemented in both VB.NET (using vbPixelGameEngine created by [@DualBrain](https://github.com/DualBrain/)) and Python (using the Pygame module), this project offers a nostalgic gaming experience with additional features like single-player mode against AI, multiple game states, and a clean user interface.
+This project is a faithful recreation of the classic Atari Pong game with modern enhancements. Implemented in both VB.NET (using `vbPixelGameEngine` created by [@DualBrain](https://github.com/DualBrain/)) and Python (using the Pygame module), this project offers a nostalgic gaming experience with additional features like single-player mode against AI, multiple game states, and a clean user interface.
 
 ## Features
 
 - **Two Game Implementations**:
-  - VB.NET version using VbPixelGameEngine
+  - VB.NET version using `vbPixelGameEngine`
   - Python version using Pygame
 - Single-player mode with intelligent AI opponent
 - Two-player mode for competitive gameplay
@@ -21,7 +21,7 @@ This project is a faithful recreation of the classic Atari Pong game with modern
 
 ### For VB.NET Version
 - [.NET Framework](https://dotnet.microsoft.com/download) (4.8 or higher)
-- [VbPixelGameEngine](https://github.com/DualBrain/vbPixelGameEngine) package, written by DualBrain
+- [vbPixelGameEngine](https://github.com/DualBrain/vbPixelGameEngine) package, written by DualBrain
 
 ### For Python Version
 - Python 3.7+
@@ -105,7 +105,7 @@ This project is a faithful recreation of the classic Atari Pong game with modern
 ## Technical Details
 
 ### VB.NET Implementation
-- Uses VbPixelGameEngine for efficient rendering
+- Uses `vbPixelGameEngine` for efficient rendering
 - Implements Windows API for IME handling
 - Object-oriented design with clear state management
 - Physics calculations with velocity adjustments
