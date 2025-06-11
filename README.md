@@ -35,13 +35,11 @@ This project is a faithful recreation of the classic Atari Pong game with modern
    git clone https://github.com/Pac-Dessert1436/Atari-Pong-Clone-VBPGE-Python.git
    cd Atari-Pong-Clone-VBPGE-Python
    ```
-2. Open the solution in Visual Studio
-3. Build and run the project
-4. Alternatively, run from command line:
+2. Build and run the project from command line:
    ```bash
-   cd bin/Release
-   AtariPong.exe
+   dotnet run
    ```
+   You can also open the project's solution file in Visual Studio.
 
 ### Python Version
 1. Clone the repository:
